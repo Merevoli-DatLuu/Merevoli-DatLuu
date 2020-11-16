@@ -24,20 +24,14 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 
-<div style = "position: relative">
-  <div style = "position: relative; float: left;">
-  
-  📊 **My Top Language**
+<br>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Merevoli-DatLuu)](https://github.com/Merevoli-DatLuu)
+📊 **My Top Language**
 
-  </div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Merevoli-DatLuu)](https://github.com/Merevoli-DatLuu)
 
-  <div style = "position: relative; float: right;">
-  
-  📈 **My GitHub Stats**
+<br>
 
-  [![Merevoli-DatLuu's github stats](https://github-readme-stats.vercel.app/api?username=Merevoli-DatLuu&show_icons=true&theme=gotham)](https://github.com/Merevoli-DatLuu)
-  
-  </div>
-</div>
+📈 **My GitHub Stats**
+
+[![Merevoli-DatLuu's github stats](https://github-readme-stats.vercel.app/api?username=Merevoli-DatLuu&show_icons=true&theme=gotham)](https://github.com/Merevoli-DatLuu)
