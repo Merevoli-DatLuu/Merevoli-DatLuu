@@ -5,6 +5,14 @@
   <img alt="GIF" src="./code.gif" width="50%"/>
 </div>
 
+
+<h2>Who Am I?</h2>
+
+<div align="center">
+  <img src="./carbon (5).png" width="75%"/>
+</div>
+
+
 <!--
 **Merevoli-DatLuu/Merevoli-DatLuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -31,19 +39,13 @@ Here are some ideas to get you started:
 
 <br>
 
-### 📊 **My Top Language**
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Merevoli-DatLuu)](https://github.com/Merevoli-DatLuu)-->
-
-
+<h2>My Top Language</h2>
 <img width="100%" height="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Merevoli-DatLuu"></a>
 
 <br>
 
-### 📈 **My GitHub Stats**
-
-<!--[![Merevoli-DatLuu's github stats](https://github-readme-stats.vercel.app/api?username=Merevoli-DatLuu&show_icons=true&theme=gotham)](https://github.com/Merevoli-DatLuu)-->
-
+<h2>My GitHub Stats</h2>
   <img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=Merevoli-DatLuu&show_icons=true&theme=gotham"></a>
 
 </div>
