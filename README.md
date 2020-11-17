@@ -5,7 +5,6 @@
   <img alt="GIF" src="./code.gif" width="50%"/>
 </div>
 
-
 <h2>Who Am I?</h2>
 
 <div align="center">
@@ -37,15 +36,8 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 
-<br>
-
-
 <h2>My Top Language</h2>
 <img width="100%" height="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Merevoli-DatLuu"></a>
 
-<br>
-
 <h2>My GitHub Stats</h2>
-  <img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=Merevoli-DatLuu&show_icons=true&theme=gotham"></a>
-
-</div>
+<img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=Merevoli-DatLuu&show_icons=true&theme=gotham"></a>
