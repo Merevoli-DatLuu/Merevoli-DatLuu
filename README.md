@@ -8,7 +8,7 @@
 <h2>Who Am I?</h2>
 
 <div align="center">
-  <img src="./carbon (5).png"/>
+  <img src="./carbon.png"/>
 </div>
 
 
@@ -35,15 +35,15 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/gith;ub/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 
-<table>
+<table border = "0">
   <tr>
     <td>
       <h2>My Top Language</h2>
-      <img align="left" width="100%" height="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Merevoli-DatLuu">
+      <img align="center" width="90%" height="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Merevoli-DatLuu">
     </td>
     <td>
       <h2>My GitHub Stats</h2>
-      <img align="right" width="100%" height="320" src="https://github-readme-stats.vercel.app/api?username=Merevoli-DatLuu&show_icons=true&theme=gotham">
+      <img align="center" width="90%" height="320" src="https://github-readme-stats.vercel.app/api?username=Merevoli-DatLuu&show_icons=true&theme=gotham">
     </td>
   </tr>
   
