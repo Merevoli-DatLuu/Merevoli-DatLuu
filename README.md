@@ -43,11 +43,11 @@ Here are some ideas to get you started:
   <tr>
     <td>
       <h2>My Top Language</h2>
-      <img align="center" width="100%" height="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Merevoli-DatLuu">
+      <img align="center" width="100%" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Merevoli-DatLuu">
     </td>
     <td>
       <h2>My GitHub Stats</h2>
-      <img align="center" width="100%" height="400" src="https://github-readme-stats.vercel.app/api?username=Merevoli-DatLuu&show_icons=true&theme=gotham">
+      <img align="center" width="100%" height="300" src="https://github-readme-stats.vercel.app/api?username=Merevoli-DatLuu&show_icons=true&theme=gotham">
     </td>
   </tr>
   
