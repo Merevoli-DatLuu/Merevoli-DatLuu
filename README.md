@@ -8,7 +8,7 @@
 <h2>Who Am I?</h2>
 
 <div align="center">
-  <img src="./carbon (5).png" width="75%"/>
+  <img src="./carbon (5).png"/>
 </div>
 
 
