@@ -33,12 +33,15 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/gith;ub/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 
 <h2>My Top Language</h2>
 <h2>My GitHub Stats</h2>
 
-
-<img width="100%" height="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Merevoli-DatLuu"></a>
-
-<img align="right" width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=Merevoli-DatLuu&show_icons=true&theme=gotham"></a>
+<table>
+  <tr>
+    <td><img align="left" width="50%" height="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Merevoli-DatLuu"></td>
+    <td><img align="right" width="50%" height="200" src="https://github-readme-stats.vercel.app/api?username=Merevoli-DatLuu&show_icons=true&theme=gotham"></td>
+  </tr>
+  
+</table>
