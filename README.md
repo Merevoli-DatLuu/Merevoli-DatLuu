@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img alt="GIF" src="./code.gif" width="70%"/>
+  <img alt="GIF" src="./code.gif" width="50%"/>
 </div>
 
 <!--
