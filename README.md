@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-<img align="center" alt="GIF" src="./code.gif" width="70%"/>
 
+<div align="center">
+  <img alt="GIF" src="./code.gif" width="70%"/>
+</div>
 
 <!--
 **Merevoli-DatLuu/Merevoli-DatLuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
