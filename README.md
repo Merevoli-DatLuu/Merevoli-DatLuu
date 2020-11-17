@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img style = "display: block" align="right" alt="GIF" src="./code.gif" width="70%"/>
+<img align="center" alt="GIF" src="./code.gif" width="70%"/>
 
 
 <!--
