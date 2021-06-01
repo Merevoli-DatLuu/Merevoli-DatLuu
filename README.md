@@ -39,16 +39,23 @@ Here are some ideas to get you started:
 <br>
 <br>
   
-<table border = "0" width = "100%">
-  <tr>
-    <td>
-      <h2>My Top Language</h2>
-      <img align="center" width="100%" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Merevoli-DatLuu">
-    </td>
-    <td>
-      <h2>My GitHub Stats</h2>
-      <img align="center" width="100%" height="300" src="https://github-readme-stats.vercel.app/api?username=Merevoli-DatLuu&show_icons=true&theme=gotham">
-    </td>
-  </tr>
+ 
+<h2>My GitHub Stats</h2>
+<div align="center">
+    <img align="center" width="60%" height="300" src="https://github-readme-stats.vercel.app/api?username=Merevoli-DatLuu&show_icons=true&theme=gotham">
+</div>
+
+<div align="center">
+    <img align="center" width="100%" height="300" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Merevoli-DatLuu&theme=vue">
+</div>
+
+<h2>My Top Language</h2>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Merevoli-DatLuu&theme=solarized)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Merevoli-DatLuu&theme=solarized)
+
+<details>
+  <summary> Projects </summary>
   
-</table>
+  
+</details>
