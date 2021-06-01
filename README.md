@@ -6,7 +6,7 @@
   <img alt="GIF" src="./code.gif" width="50%"/>
 </div>
 
-<h2>Who Am I?</h2>
+<h2>❓ Who Am I</h2>
 
 <div align="center">
   <img src="./carbon.png"/>
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2>Languages and Tools</h2>
+<h2> :octocat:  Languages and Tools</h2>
 <code><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/></code>
 <code><img src="https://img.shields.io/badge/C++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/></code>
 <code><img src="https://img.shields.io/badge/Java%20-%23E34F26.svg?&style=for-the-badge&logo=java&logoColor=white"/></code>
@@ -37,11 +37,8 @@ Here are some ideas to get you started:
 <code><img src="https://img.shields.io/badge/mysql%20-%235C2D91.svg?&style=for-the-badge&logo=mysql&logoColor=white"/></code>
   
 <br>
-<br>
-<br>
-  
  
-<h2>My GitHub Stats</h2>
+<h2> 🌟  My GitHub Stats</h2>
 <div align="center">
     <img align="center" width="60%" src="https://github-readme-stats.vercel.app/api?username=Merevoli-DatLuu&show_icons=true&theme=gotham">
 </div>
@@ -50,7 +47,9 @@ Here are some ideas to get you started:
     <img align="left" width="55%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Merevoli-DatLuu&theme=vue">
 </div-->
 
-<h2>My Top Languages</h2>
+<br>
+
+<h2> 💹 My Top Languages</h2>
   
 <div align="center">
   <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Merevoli-DatLuu&theme=solarized">
@@ -59,7 +58,7 @@ Here are some ideas to get you started:
 
 
 <details>
-  <summary style = "font-size:20px" > Projects </summary>
+  <summary style = "font-size:28px" > Projects </summary>
   
   ### 1| Secure File Storage
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Merevoli-DatLuu&repo=secure-file-storage-app)](https://github.com/Merevoli-DatLuu/secure-file-storage-app)
