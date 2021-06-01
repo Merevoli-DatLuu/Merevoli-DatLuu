@@ -1,4 +1,5 @@
-### Hi there 👋👋👋
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 
 
 <div align="center">
@@ -42,20 +43,36 @@ Here are some ideas to get you started:
  
 <h2>My GitHub Stats</h2>
 <div align="center">
-    <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api?username=Merevoli-DatLuu&show_icons=true&theme=gotham">
+    <img align="center" width="60%" src="https://github-readme-stats.vercel.app/api?username=Merevoli-DatLuu&show_icons=true&theme=gotham">
 </div>
 
-<div align="center">
+<!--div align="center">
     <img align="left" width="55%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Merevoli-DatLuu&theme=vue">
+</div-->
+
+<h2>My Top Languages</h2>
+  
+<div align="center">
+  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Merevoli-DatLuu&theme=solarized">
+  <img  width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Merevoli-DatLuu&theme=solarized">
 </div>
 
-<h2>My Top Language</h2>
-  
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Merevoli-DatLuu&theme=solarized)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Merevoli-DatLuu&theme=solarized)
 
 <details>
-  <summary> Projects </summary>
+  <summary style = "font-size:20px" > Projects </summary>
   
+  ### 1| Secure File Storage
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Merevoli-DatLuu&repo=secure-file-storage-app)](https://github.com/Merevoli-DatLuu/secure-file-storage-app)
   
+  ### 2| Library Management System
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Merevoli-DatLuu&repo=Library-Management-System-Java)](https://github.com/Merevoli-DatLuu/Library-Management-System-Java)
+  
+  ### 3| Solving Timetabling Problem
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Merevoli-DatLuu&repo=Thuat_Toan_Lap_Thoi_Khoa_Bieu)](https://github.com/Merevoli-DatLuu/Thuat_Toan_Lap_Thoi_Khoa_Bieu)
+  
+  ### 4| Steiner Tree
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Merevoli-DatLuu&repo=Steiner_Tree)](https://github.com/Merevoli-DatLuu/Steiner_Tree)
+  
+  ### 5| SMT
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Merevoli-DatLuu&repo=SMT)](https://github.com/Merevoli-DatLuu/SMT)
 </details>
