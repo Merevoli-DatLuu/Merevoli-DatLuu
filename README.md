@@ -56,9 +56,13 @@ Here are some ideas to get you started:
   <img  width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Merevoli-DatLuu&theme=solarized">
 </div>
 
+<br>
 
 <details>
-  <summary style = "font-size:28px" > Projects </summary>
+  <summary style = "font-size:28px" > More </summary>
+  
+  
+  ## Projects
   
   ### 1| Secure File Storage
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Merevoli-DatLuu&repo=secure-file-storage-app)](https://github.com/Merevoli-DatLuu/secure-file-storage-app)
@@ -74,4 +78,30 @@ Here are some ideas to get you started:
   
   ### 5| SMT
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Merevoli-DatLuu&repo=SMT)](https://github.com/Merevoli-DatLuu/SMT)
+  
+  ---
+   
+  ## Pet Projects
+
+  ### 1| Raycaster-simulator
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Merevoli-DatLuu&repo=Raycaster-simulator)](https://github.com/Merevoli-DatLuu/Raycaster-simulator)
+
+  ### 2| ScreenSharing
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Merevoli-DatLuu&repo=ScreenSharing)](https://github.com/Merevoli-DatLuu/ScreenSharing)
+
+  ### 3| To-Do App
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Merevoli-DatLuu&repo=To-Do-App)](https://github.com/Merevoli-DatLuu/To-Do-App)
+
+  ### 4| Get_Your_Book
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Merevoli-DatLuu&repo=Get_Your_Book)](https://github.com/Merevoli-DatLuu/Get_Your_Book)
+
+  ### 5| SGUInfo
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Merevoli-DatLuu&repo=SGUInfo)](https://github.com/Merevoli-DatLuu/SGUInfo)
+
+  ### 6| Twitter-Scraper
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Merevoli-DatLuu&repo=Twitter-Scraper)](https://github.com/Merevoli-DatLuu/Twitter-Scraper)
+
+  ### 7| InScraper
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Merevoli-DatLuu&repo=InScraper)](https://github.com/Merevoli-DatLuu/InScraper)
+  
 </details>
